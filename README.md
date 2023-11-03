@@ -1,7 +1,7 @@
 # Recipes List
-Lasagna
-Chicken Fra Diavolo 
-Spicy Thai Basil Chicken
+- Lasagna
+- Chicken Fra Diavolo 
+- Spicy Thai Basil Chicken
 ## Links
 - [Try Recipes List here!](https://github.com/Fryryce/odin-recipes.git)
 
